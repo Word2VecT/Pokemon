@@ -1,6 +1,3 @@
-Here is a draft of the README.md file for your GitHub repository, including the provided sections and details:
-
-```markdown
 # Pokemon Project
 
 ## 软件开发环境
@@ -14,16 +11,20 @@ Here is a draft of the README.md file for your GitHub repository, including the 
 ## 快速上手
 
 1. 克隆仓库至本地并进入目录：
+
     ```bash
     git clone https://github.com/Word2VecT/Pokemon.git
     cd Pokemon
     ```
+
 2. 安装对应版本的 Qt，并在 Qt Creator 中配置。
 3. 安装 MySQL 数据库，并启动后台监听服务。程序使用数据库用户名为 `root`，密码为空，数据库名为 `Pokemon`，也可以自行修改 `Server/main.cpp` 文件配置为本地。
 4. 使用以下命令导入数据库：
+
     ```bash
     mysql -u root -p < ./Database/Pokemon.sql
     ```
+
 5. 在 Qt Creator 中打开 `Server` 项目，编译运行。
 6. 在 Qt Creator 中打开 `Client` 项目，编译运行。
 7. Enjoy!
