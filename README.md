@@ -22,7 +22,7 @@
 4. 使用以下命令导入数据库：
 
     ```bash
-    mysql -u root -p < ./Database/Pokemon.sql
+    mysql -u root -p < ./Database/pokemon_2024-06-14.sql
     ```
 
 5. 在 Qt Creator 中打开 `Server` 项目，编译运行。
