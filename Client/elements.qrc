@@ -1,0 +1,51 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>elements/exit.png</file>
+        <file>elements/start.png</file>
+        <file>elements/loginButton.png</file>
+        <file>elements/regist.png</file>
+        <file>elements/logo.png</file>
+        <file>elements/back.png</file>
+        <file>elements/bag.png</file>
+        <file>elements/battle.png</file>
+        <file>elements/bronze.png</file>
+        <file>elements/close.png</file>
+        <file>elements/golden.png</file>
+        <file>elements/silver.png</file>
+        <file>elements/rank.png</file>
+        <file>elements/flash.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>elements/mainwindow.jpg</file>
+        <file>elements/login.png</file>
+        <file>elements/frame.png</file>
+        <file>elements/frame2.png</file>
+        <file>elements/name.png</file>
+        <file>elements/home.jpg</file>
+        <file>elements/list.png</file>
+        <file>elements/pop.png</file>
+        <file>elements/battle.jpg</file>
+        <file>elements/stadium.jpg</file>
+        <file>elements/lose.png</file>
+        <file>elements/win.png</file>
+        <file>elements/button.png</file>
+    </qresource>
+    <qresource prefix="/pokemon">
+        <file>elements/Blastoise.png</file>
+        <file>elements/Bulbasaur.png</file>
+        <file>elements/Charizard.png</file>
+        <file>elements/Charmander.png</file>
+        <file>elements/Hitmonchan.png</file>
+        <file>elements/Hitmonlee.png</file>
+        <file>elements/Machamp.png</file>
+        <file>elements/Machop.png</file>
+        <file>elements/Mankey.png</file>
+        <file>elements/Primeape.png</file>
+        <file>elements/Pidgeot.png</file>
+        <file>elements/Pidgey.png</file>
+        <file>elements/Pikachu.png</file>
+        <file>elements/Raichu.png</file>
+        <file>elements/Squirtle.png</file>
+        <file>elements/Venusaur.png</file>
+    </qresource>
+</RCC>
